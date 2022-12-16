@@ -3,9 +3,9 @@
 /* for development/hotloading */
 //import * as flipbook from '../src'
 
-import * as flipbook from '../dist/flipbook-viewer.js'
+// import * as flipbook from '../dist/flipbook-viewer.js'
 
-import * as book from './book-pdf.js'
+// import * as book from './book-pdf.js'
 
 /*    understand/
  * main entry point into our program
